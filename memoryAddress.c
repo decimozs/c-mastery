@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(int argc, char *argv[]){
+int main(int argc, char **argv){
    int number = 100;
 
    printf("The integer value of the number: %d", number);

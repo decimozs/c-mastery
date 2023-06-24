@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(int argc, char *argv[]){
+int main(int argc, char **argv){
    /**
     * basic format specifiers
     * d% or i% for integer
